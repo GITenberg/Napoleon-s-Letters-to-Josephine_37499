@@ -1,0 +1,42 @@
+_repo: Napoleon-s-Letters-to-Josephine_37499
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Napoleon I, Emperor of the French
+    aliases:
+    - Buonaparte, Napoleon
+    - Bonaparte, Napoleon
+    - Bonaparte, Napoleone
+    - Bonapart, Napoleon
+    birthdate: 1769
+    deathdate: 1821
+    gutenberg_agent_id: '4267'
+    url: http://www.gutenberg.org/2009/agents/4267
+    wikipedia: http://en.wikipedia.org/wiki/Napoleon_Bonaparte
+  editor:
+    agent_name: Hall, Henry Foljambe
+    gutenberg_agent_id: '38877'
+    url: http://www.gutenberg.org/2009/agents/38877
+description: ''
+gutenberg_bookshelf: Napoleonic(Bookshelf)
+gutenberg_issued: '2011-09-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37499'
+  lccn: '02012173'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Josephine, Empress, consort of Napoleon I, Emperor of the French, 1763-1814
+  -- Correspondence'
+- !lcc 'DC'
+- !lcsh 'Napoleon I, Emperor of the French, 1769-1821 -- Correspondence'
+title: "Napoleon's Letters to Josephine, 1796-1812\r\nFor the First Time Collected\
+  \ and Translated, with Notes Social, Historical, and Chronological, from Contemporary\
+  \ Sources"
+url: http://www.gutenberg.org/ebooks/37499
